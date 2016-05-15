@@ -1,0 +1,5 @@
+name: AvoidOps
+main: AvoidOps\AvoidOps
+version: 1.0.0
+api: [2.0.0, 1.0.0]
+author: ImSilencer
